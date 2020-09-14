@@ -1,0 +1,7 @@
+package server;
+
+struct output_t 
+{
+    int16_t player;
+    string motion;
+}

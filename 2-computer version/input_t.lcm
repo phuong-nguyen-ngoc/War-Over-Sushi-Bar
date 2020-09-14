@@ -1,0 +1,7 @@
+package client;
+
+struct input_t 
+{
+    int16_t player;
+    string motion;
+}
